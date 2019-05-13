@@ -28,15 +28,15 @@ avatar: http://imglf5.nosdn0.126.net/img/RVR1SnkxZ2hzczdpMkNGa1R3YWV5dFJuUFV2ZFN
 # 底部链接，就算不写不改，也把人家原来的俩号给删了
 footer-links:
   dribbble:
-  email:
+  email: 337259711@qq.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now # 这个要删
+  github: 337259711/337259711.github.io #barryclark/jekyll-now # 这个要删
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb # 这个也要删
+  twitter: #jekyllrb # 这个也要删
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
